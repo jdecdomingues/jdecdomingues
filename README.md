@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, meu nome é  [Jonathan](https://www.linkedin.com/in/jcdomingues/)!
 
 Iniciei minha carreira com Rotinas Administrativa/Financeiras, foram 7 anos e o último como Analista Financeiro na mesma empresa onde tive oportunidade de embarcar em uma transição de carreira. 
-Hoje tenho enorme orgulho em dizer que já são 2 anos como dev <img src="https://cdn.dribbble.com/users/2190368/screenshots/4369463/rocket-animated-icons.gif" width="30px">.
+Hoje tenho enorme orgulho em dizer que já são 2 anos como dev :rocket:.
 
 ### Como foi a transição?
 
