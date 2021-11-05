@@ -17,3 +17,8 @@ Atuando de maneira generalista, atuo com a melhoria e redefinição processos do
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/jcdomingues/) 
 
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jdecdomingues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdecdomingues&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
