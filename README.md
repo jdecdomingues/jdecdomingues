@@ -23,6 +23,15 @@ Durante esse período, pude desenvolver e sustentar objetos de banco de vários 
 Além das habilidades técnicas, possuo uma ótima capacidade de comunicação, estruturação de fala e pensamento, além de ter o perfil pró-ativo e dinâmico, sempre busco melhorar os processos e aprender novas tecnologias. 
 
 
+## Recomendações
+**[Eduardo Hidalgo](https://www.linkedin.com/in/eduardohidalgolink/)** – Trabalhou em equipes diferentes  
+  > “Jonathan é extremamente focado, persistente e dedicado. Impressiona pela capacidade de entender processos complexos e oratória excepcional.”
 
+**[Vanessa Lonarde](https://www.linkedin.com/in/vanessa-lonarde-26854131/)** – Supervisionava Jonathan diretamente  
+  > “Jonathan é dedicado, comprometido e sabe trabalhar em equipe. Faz a diferença e sempre se destaca pela competência e postura profissional.”
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/jcdomingues/) 
+**[Carlos Eduardo Guerra Resende](https://www.linkedin.com/in/carlosguerra-techlead/)** – Trabalhava na mesma equipe  
+  > “Profissional inteligente e comprometido. Sempre busca novos aprendizados e contribui de forma positiva em qualquer equipe de desenvolvimento.”
+
+**[Fábio Vidigal](https://www.linkedin.com/in/fabio-vidigal-05545115/)** – Supervisionava Jonathan diretamente  
+  > “Mesmo jovem, Jonathan demonstra maturidade e visão de futuro. Um profissional diferenciado que sempre brilhará em seus caminhos.”
